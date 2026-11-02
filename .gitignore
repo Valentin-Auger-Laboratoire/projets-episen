@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+# Fichiers générés à l'exécution
+actions.json
+suivi_medical.json
+resultats.json
+resultats.csv
